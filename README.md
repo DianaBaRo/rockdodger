@@ -1,4 +1,4 @@
-# rockdodger
+# Rock Dodger
 
 HTML, CSS and JS
 
